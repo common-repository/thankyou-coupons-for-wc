@@ -1,0 +1,17 @@
+.wctc-coupon-outer {
+	border-style: dashed;
+	margin: 1rem;
+}
+
+.wctc-coupon-inner {
+	text-align: center;
+	padding: 2rem;
+}
+
+.wctc-coupon-message {
+	font-size: 1.5rem;
+}
+
+.wctc-coupon-code {
+	font-size: 3rem;
+}
